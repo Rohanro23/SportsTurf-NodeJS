@@ -1,0 +1,23 @@
+{
+  "name": "my-nodejs-app",
+  "version": "1.0.0",
+  "description": "A Node.js application for managing sports subscriptions.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "nodejs",
+    "express",
+    "sports",
+    "subscriptions"
+  ],
+  "author": "Your Name",
+  "license": "ISC"
+}
